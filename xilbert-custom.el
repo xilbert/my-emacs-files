@@ -556,7 +556,6 @@
 ;;         (holiday-lunar 8 15 "中秋节" 0)
 ;;         ;; 生日 -- 家人,朋友
 ;;         (holiday-fixed 3 2 "欢的生日")
-;;         (holiday-lunar 8 5 "我的生日" 0)
 ;;         ))
 ;; (setq calendar-holidays holiday-xilbert-holidays)
 
